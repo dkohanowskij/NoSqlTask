@@ -1,0 +1,36 @@
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\NoSQL.exe.config
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\NoSQL.exe
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\NoSQL.pdb
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\DnsClient.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Bson.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.Core.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\System.Buffers.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\DnsClient.xml
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Bson.xml
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.xml
+D:\Mentoring\New folder\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.Core.xml
+D:\Mentoring\New folder\NoSQL\NoSQL\obj\Debug\NoSQL.csprojAssemblyReference.cache
+D:\Mentoring\New folder\NoSQL\NoSQL\obj\Debug\NoSQL.csproj.CoreCompileInputs.cache
+D:\Mentoring\New folder\NoSQL\NoSQL\obj\Debug\NoSQL.csproj.CopyComplete
+D:\Mentoring\New folder\NoSQL\NoSQL\obj\Debug\NoSQL.exe
+D:\Mentoring\New folder\NoSQL\NoSQL\obj\Debug\NoSQL.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\NoSQL.exe.config
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\NoSQL.exe
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\NoSQL.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\DnsClient.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\DnsClient.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\obj\Debug\NoSQL.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\obj\Debug\NoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\obj\Debug\NoSQL.csproj.CopyComplete
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\obj\Debug\NoSQL.exe
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.NetMentoring.NoSQL-master\NoSQL\NoSQL\obj\Debug\NoSQL.pdb
